@@ -1,0 +1,4 @@
+wheel
+telepot
+pytz
+pyrebase4
